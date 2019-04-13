@@ -4,7 +4,7 @@
   "inventoryIcon" : "autocrossbow.png",
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "description" : "William Tell has nothing on this baby.",
+  "description" : "At this point it isn't even a crossbow.",
   "shortdescription" : "Auto-Crossbow",
   "level" : 6,
   "tooltipKind" : "gun2",
